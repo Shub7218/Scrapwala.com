@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    font-family: "Montserrat";
+}
+
+h1 {
+    font-family: Montserrat-black;
+    font-size: 4rem;
+    line-height: 1.5;
+  
+  }
+
+.intro {
+    background-color: #91e76f;
+}  
+
+#title {
+    background-color: #6BCB77;
+}
+
+#footer {
+   background-color: #91e76f;
+} 
+
+
+.intro p {
+    padding-right: 40px;
+}
+/* #article {
+    background-color: #91e76f;
+} */
+
+#article h1 {
+    padding-top: 20px;
+}
+
+.middle {
+    background-color: #91e76f;
+}
